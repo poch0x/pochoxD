@@ -1,0 +1,126 @@
+body {
+    background: url(/img/fondo-back.jpg) no-repeat center center fixed;
+    background-size: cover;
+   
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    margin: 0%;
+}
+
+/* HEADER */
+
+.header-title {
+    
+    margin: 15px auto;
+    font-family: 'Poppins', sans-serif;
+    height: 10px;
+}
+
+a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 15px;
+}
+
+header div h3 {
+    color: white;
+}
+
+img {
+    width: 350px;
+    border: 1px solid white;
+    border-radius: 5px ;    
+    margin: 15px;
+}
+
+#nom-band {
+    color: red;
+}
+
+/* SECTION GENERAL */
+
+#general {
+    margin: 15px;
+}
+
+/* INFORMACION DE LA CANCION Y ARTISTA Y DEMAS */
+
+#info-cancion {
+    width: auto;
+}
+
+fieldset {
+    border-radius: 5px;
+}
+
+h1 {
+    color: white;
+    text-align: left;
+    font-family: 'Kanit', sans-serif;
+    font-size: 35px;
+    margin: 0px auto;
+}
+
+h2 {
+    color: white;
+    text-align: left;
+    font-family: 'Kanit', sans-serif;
+    margin: 0 auto;
+}
+
+p {
+    color: white;
+    text-align: left;
+    font-family: 'Kanit', sans-serif;
+}
+
+/* LETRA DE LA CANCION */
+
+#letra-cancion {
+    padding: 20px;
+    width: 380px;
+}
+
+#tit-canc {
+    color: yellow;
+    margin-top: 1px;
+}
+
+.ujudUb {
+    color: white;
+}
+
+#pal-clave {
+    color: red;
+}
+
+.ujudUb-v {
+    color: white;
+    font-style: italic;
+}
+
+span {
+    font-family: 'Poppins', sans-serif;
+}
+
+/*em {
+    font-size: 20px;
+}
+*/
+
+/* FOOTER */
+footer {
+    background: grey;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+footer p {
+    margin: 20px;
+    
+}
+
